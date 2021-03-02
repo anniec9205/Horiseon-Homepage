@@ -1,6 +1,6 @@
 # Horiseon-Homepage
 
-[bold]About Horiseon
+[boldAbout Horiseon]
  
  Horiseon is a marketing agency. Horiseon would like a codebase that follows accessibility standards so that the site is optimized for search engines!
 
