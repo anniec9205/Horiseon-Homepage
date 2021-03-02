@@ -6,4 +6,4 @@
 
 ![](https://user-images.githubusercontent.com/74122817/109496251-86585480-7ae4-11eb-8b89-e68a457b85dd.png)
 
-Link to Website <https://anniec9205.github.io/Horiseon-Homepage/>
+[I'm an inline-style link](https://anniec9205.github.io/Horiseon-Homepage/)
