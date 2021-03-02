@@ -18,7 +18,7 @@
     WHEN I view the title element
     THEN I find a concise, descriptive title
 
-[WEBPAGE SCREENSHOT] https://user-images.githubusercontent.com/74122817/109496251-86585480-7ae4-11eb-8b89-e68a457b85dd.png
+![](https://user-images.githubusercontent.com/74122817/109496251-86585480-7ae4-11eb-8b89-e68a457b85dd.png)
 
 
-[LINK] https://anniec9205.github.io/Horiseon-Homepage/
+![LINK](https://anniec9205.github.io/Horiseon-Homepage/)
